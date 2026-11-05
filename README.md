@@ -1,3 +1,5 @@
+<img src="headshot.jpg" alt="Rakesh Gambhir" width="200" align="right">
+
 **AI Quality Analyst | LLM & Agent Evaluation, Test Automation & AI Adoption**
 
 I test AI systems before your customers do.
