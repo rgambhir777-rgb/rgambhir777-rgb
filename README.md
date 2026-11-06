@@ -18,6 +18,7 @@ Prosci Certified Change Practitioner: I also lead the people side of change, so 
 - **RAG and multimodal agents** - retrieval recall, groundedness and citation accuracy across text, tables, images and audio, plus the tool choices agents make along the way
 - **AI-assisted test engineering** - Cursor, GitHub Copilot and the Playwright MCP server to explore apps and generate tests, page objects and test data, always with human review
 - **Test automation architecture** - Playwright and Selenium frameworks with page objects, fixtures, API and UI coverage, running in CI
+- **API testing with Postman** - REST APIs tested from Swagger/OpenAPI specs: Postman collections with environment variables, pre-request scripts and assertions, run by Newman in CI, with responses checked against the database in SQL
 - **Performance and load** - JMeter and LoadRunner scripts, workload models and bottleneck analysis, measured against SLAs
 - **Test strategy and release readiness** - test plans in Confluence, traceability and defects in Jira, UAT, accessibility (WCAG 2.1) and clear go/no-go recommendations
 - **AI adoption and change** - Prosci ADKAR change plans, AI literacy, role-based training and adoption KPIs
@@ -70,7 +71,9 @@ Upgrading PeopleSoft to PeopleTools 8.63 and getting testers and users ready for
 
 **AI quality:** multi-turn LLM evaluation, hallucination scoring, RAG evaluation, Cursor, GitHub Copilot, MCP, Playwright MCP, LangChain, LlamaIndex, ChromaDB
 
-**Test automation:** Playwright, Selenium WebDriver, TypeScript, Python, Java, pytest, TestNG, Rest Assured, Postman / Newman
+**Test automation:** Playwright, Selenium WebDriver, TypeScript, Python, Java, pytest, TestNG
+
+**API testing:** Postman, Newman, Swagger / OpenAPI, Rest Assured, REST APIs, JSON schema validation, SQL data validation
 
 **Performance:** JMeter, LoadRunner, Performance Center, Dynatrace, AppDynamics
 
