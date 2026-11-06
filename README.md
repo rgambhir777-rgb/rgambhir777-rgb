@@ -19,6 +19,7 @@ Prosci Certified Change Practitioner: I also lead the people side of change, so 
 - **AI-assisted test engineering** - Cursor, GitHub Copilot and the Playwright MCP server to explore apps and generate tests, page objects and test data, always with human review
 - **Test automation architecture** - Playwright and Selenium frameworks with page objects, fixtures, API and UI coverage, running in CI
 - **API testing with Postman** - REST APIs tested from Swagger/OpenAPI specs: Postman collections with environment variables, pre-request scripts and assertions, run by Newman in CI, with responses checked against the database in SQL
+- **BDD with Cucumber** - acceptance criteria written as plain-language Gherkin scenarios with product owners and developers, then automated with Cucumber, so the business can read what each test proves
 - **Performance and load** - JMeter and LoadRunner scripts, workload models and bottleneck analysis, measured against SLAs
 - **Test strategy and release readiness** - test plans in Confluence, traceability and defects in Jira, UAT, accessibility (WCAG 2.1) and clear go/no-go recommendations
 - **AI adoption and change** - Prosci ADKAR change plans, AI literacy, role-based training and adoption KPIs
@@ -71,7 +72,7 @@ Upgrading PeopleSoft to PeopleTools 8.63 and getting testers and users ready for
 
 **AI quality:** multi-turn LLM evaluation, hallucination scoring, RAG evaluation, Cursor, GitHub Copilot, MCP, Playwright MCP, LangChain, LlamaIndex, ChromaDB
 
-**Test automation:** Playwright, Selenium WebDriver, TypeScript, Python, Java, pytest, TestNG
+**Test automation:** Playwright, Selenium WebDriver, Cucumber, Gherkin, BDD, TypeScript, Python, Java, pytest, TestNG
 
 **API testing:** Postman, Newman, Swagger / OpenAPI, Rest Assured, REST APIs, JSON schema validation, SQL data validation
 
