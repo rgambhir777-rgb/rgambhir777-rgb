@@ -24,6 +24,16 @@ Prosci Certified Change Practitioner: I also lead the people side of change, so 
 - **Test strategy and release readiness** - test plans in Confluence, traceability and defects in Jira, UAT, accessibility (WCAG 2.1) and clear go/no-go recommendations
 - **AI adoption and change** - Prosci ADKAR change plans, AI literacy, role-based training and adoption KPIs
 
+## Live Demos
+
+Three of my AI quality apps run on [Modal](https://modal.com). They scale to zero when idle, so the first load can take 10 to 30 seconds.
+
+| App | What it does | Links |
+|---|---|---|
+| **AgentProof** | Scores multi-turn LLM virtual-agent conversations for context awareness, accuracy and hallucination, across chat, voice, email and SMS, with a GO / CONDITIONAL / NO-GO verdict per agent and channel | [Live demo](https://rgambhir777--agentproof-serve.us-east.modal.run) · [Source](https://github.com/rgambhir777-rgb/Multi-turnLLMVirtualAgentEvaluator) |
+| **GoldenGate** | Measures accuracy, bias and hallucination against a golden dataset, release over release, with thresholds that block a release when quality drops | [Live demo](https://rgambhir777--goldengate.us-east.modal.run) · [Source](https://github.com/rgambhir777-rgb/GoldenGateAccuracyBiasHallucination) |
+| **RAGbot** | Multimodal RAG chatbot that answers from documents, images and transcripts and cites its sources | [Live demo](https://rgambhir777--ragbot.us-east.modal.run) · [Source](https://github.com/rgambhir777-rgb/MultiSourceRagChatbot) |
+
 ## Selected Work
 
 ### Scoring Multi-Turn LLM Virtual Agents
